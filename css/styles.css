@@ -67,6 +67,14 @@ p {
   padding:1em;
 }
 
+.profile {
+  border-radius: 50%;
+  width: 40%;
+  padding: 1em;
+  margin-top: -10px;
+  margin-left: 50px;
+}
+
 .main {
   grid-area: main;
   margin: 20px auto auto 2em;
